@@ -1,0 +1,1 @@
+export * from '../build/StarQJetton/tact_StarQJetton';
